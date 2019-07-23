@@ -7,3 +7,5 @@
 http://www.ofnet.ru/osnovy-interneta/tcpip/
 
 https://1cloud.ru/blog/chto-takoe-dns
+
+https://t.me/winterview101
